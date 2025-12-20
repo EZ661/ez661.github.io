@@ -6,7 +6,7 @@
 
 - 前往https://github.com/NapNeko/NapCatQQ/releases 下载VC运行库
 
-- 前往https://git-scm.com/下载最新版的git
+- 前往https://git-scm.com/ 下载最新版的git
 
 后面我们git库用
 
@@ -38,3 +38,12 @@
 - 先获得Yunzai`git clone --depth=1 https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git`
 
 - 然后进入Yunzai的目录获得对应的插件`git clone --depth=1 https://gitcode.com/TimeRainStarSky/miao-plugin.git plugins/miao-plugin`
+
+安装node.js
+
+```
+nvm install lts
+nvm use lts
+nvm alias default lts
+```
+
