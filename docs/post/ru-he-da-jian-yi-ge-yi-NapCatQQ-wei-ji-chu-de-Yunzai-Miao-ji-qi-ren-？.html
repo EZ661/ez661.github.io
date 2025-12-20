@@ -83,8 +83,12 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>前往<a href="https://github.com/NapNeko/NapCatQQ/releases">https://github.com/NapNeko/NapCatQQ/releases</a> 下载VC运行库</p>
 </li>
 <li>
-<p>前往<a href="https://github.com/NapNeko/NapCatQQ/releases">https://github.com/NapNeko/NapCatQQ/releases</a> 下载最新版的NapCat.Shell.zip</p>
+<p>前往<a href="https://git-scm.com/%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88%E7%9A%84git" rel="nofollow">https://git-scm.com/下载最新版的git</a></p>
 </li>
+</ul>
+<p>后面我们git库用</p>
+<ul>
+<li>前往<a href="https://github.com/NapNeko/NapCatQQ/releases">https://github.com/NapNeko/NapCatQQ/releases</a> 下载最新版的NapCat.Shell.zip</li>
 </ul>
 <p>这是NapCat的主程序，肯定要下载，因为没有QQNT本体所以下面再下载QQNT。</p>
 <ul>
@@ -102,7 +106,22 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <ul>
 <li>前往<a href="https://github.com/redis-windows/redis-windows/releases">https://github.com/redis-windows/redis-windows/releases</a> 下载Redis-8.4.0-Windows-x64-msys2-with-Service.zip</li>
 </ul>
-<p>这是Redis，同样是Yunzai-Miao需要的环境。</p></div>
+<p>这是Redis，同样是Yunzai-Miao需要的环境。<br>
+接下来是把上面的东西通通安装，这里的安装有顺序要求的，按照顺序来。</p>
+<ul>
+<li>
+<p>安装VC运行库，安装Edge浏览器，安装QQNT，安装NVM，安装Redis，解压NapCat。</p>
+</li>
+<li>
+<p>在D盘新建一个文件夹，名字不要有中文，然后我们用cmd来开始安装Yunzai-Miao，cmd记得关闭快速编辑模式</p>
+</li>
+<li>
+<p>先获得Yunzai<code class="notranslate">git clone --depth=1 https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git</code></p>
+</li>
+<li>
+<p>然后进入Yunzai的目录获得对应的插件<code class="notranslate">git clone --depth=1 https://gitcode.com/TimeRainStarSky/miao-plugin.git plugins/miao-plugin</code></p>
+</li>
+</ul></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
