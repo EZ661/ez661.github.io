@@ -4,24 +4,24 @@
 
 然后我们搭建环境，安装的每个工具，依赖，没有先后顺序要求，随便。我这里为了美观，一条一条写出来，实际上没有顺序要求的。
 
-- 前往https://github.com/NapNeko/NapCatQQ/releases下载VC运行库
+- 前往https://github.com/NapNeko/NapCatQQ/releases 下载VC运行库
 
-- 前往https://github.com/NapNeko/NapCatQQ/releases下载最新版的NapCat.Shell.zip
+- 前往https://github.com/NapNeko/NapCatQQ/releases 下载最新版的NapCat.Shell.zip
 
 这是NapCat的主程序，肯定要下载，因为没有QQNT本体所以下面再下载QQNT。
 
-- 前往https://im.qq.com/pcqq/index.shtml下载最新版QQNT
+- 前往https://im.qq.com/pcqq/index.shtml 下载最新版QQNT
 
 这里是下载QQNT本体，当然需要，无需解释。
 
-- 前往https://github.com/coreybutler/nvm-windows/releases下载最新版的nvm-setup.exe
+- 前往https://github.com/coreybutler/nvm-windows/releases 下载最新版的nvm-setup.exe
 
 这是下载NVM，NVM是用来管理Node.js版本用的，Yunzai-Miao需要Node.js环境。
 
-- 前往https://www.microsoft.com/zh-cn/edge/download下载最新版的Edge浏览器
+- 前往https://www.microsoft.com/zh-cn/edge/download 下载最新版的Edge浏览器
 
 因为Yunzai-Miao需要Chromium/Edge的环境，也就是说下谷歌浏览器也可以，看你自己。
 
-- 前往https://github.com/redis-windows/redis-windows/releases下载Redis-8.4.0-Windows-x64-msys2-with-Service.zip
+- 前往https://github.com/redis-windows/redis-windows/releases 下载Redis-8.4.0-Windows-x64-msys2-with-Service.zip
 
 这是Redis，同样是Yunzai-Miao需要的环境。
