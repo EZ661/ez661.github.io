@@ -10,9 +10,9 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="先开着这个坑，我以后肯定会填的，会在某一次的我实操过程中，边操作边写教程。">
+<meta name="description" content="首先你要租一个服务器， 你总不可能在自己的电脑上运行一个机器人24小时吧？所以租一个服务器是我们最好的选择。">
 <meta property="og:title" content="如何搭建一个以NapCatQQ为基础的Yunzai-Miao机器人？">
-<meta property="og:description" content="先开着这个坑，我以后肯定会填的，会在某一次的我实操过程中，边操作边写教程。">
+<meta property="og:description" content="首先你要租一个服务器， 你总不可能在自己的电脑上运行一个机器人24小时吧？所以租一个服务器是我们最好的选择。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://ez661.github.io/post/ru-he-da-jian-yi-ge-yi-NapCatQQ-wei-ji-chu-de-Yunzai-Miao-ji-qi-ren-%EF%BC%9F.html">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/249889110">
@@ -73,7 +73,36 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><p>先开着这个坑，我以后肯定会填的，会在某一次的我实操过程中，边操作边写教程。🥰</p></div>
+<div class="markdown-body" id="postBody"><p>首先你要租一个服务器， 你总不可能在自己的电脑上运行一个机器人24小时吧？所以租一个服务器是我们最好的选择。租了服务器之后，往往只给提供一个盘的空间，比如你买了50G的硬盘空间的服务器，可能这50GB全部给你放到C盘，但是我们的机器人如果运行在系统盘经常会遇到权限和存储方面的各种问题，所以我们要做的第一件事就是在计算机管理中，把C盘压缩出个10-20G，然后新建卷一个D盘出来，在D盘下进行操作，**我会告诉你每一步该做什么，以及为什么这么做。**也就是说我们的第一件事就是，以下</p>
+<ul>
+<li>所有操作均在非系统盘进行，如果没有就新建。所有的文件建议在本地下载，最后打包上传到服务器。</li>
+</ul>
+<p>然后我们搭建环境，安装的每个工具，依赖，没有先后顺序要求，随便。我这里为了美观，一条一条写出来，实际上没有顺序要求的。</p>
+<ul>
+<li>
+<p>前往<a href="https://github.com/NapNeko/NapCatQQ/releases%E4%B8%8B%E8%BD%BDVC%E8%BF%90%E8%A1%8C%E5%BA%93">https://github.com/NapNeko/NapCatQQ/releases下载VC运行库</a></p>
+</li>
+<li>
+<p>前往<a href="https://github.com/NapNeko/NapCatQQ/releases%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88%E7%9A%84NapCat.Shell.zip">https://github.com/NapNeko/NapCatQQ/releases下载最新版的NapCat.Shell.zip</a></p>
+</li>
+</ul>
+<p>这是NapCat的主程序，肯定要下载，因为没有QQNT本体所以下面再下载QQNT。</p>
+<ul>
+<li>前往<a href="https://im.qq.com/pcqq/index.shtml%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88QQNT" rel="nofollow">https://im.qq.com/pcqq/index.shtml下载最新版QQNT</a></li>
+</ul>
+<p>这里是下载QQNT本体，当然需要，无需解释。</p>
+<ul>
+<li>前往<a href="https://github.com/coreybutler/nvm-windows/releases%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88%E7%9A%84nvm-setup.exe">https://github.com/coreybutler/nvm-windows/releases下载最新版的nvm-setup.exe</a></li>
+</ul>
+<p>这是下载NVM，NVM是用来管理Node.js版本用的，Yunzai-Miao需要Node.js环境。</p>
+<ul>
+<li>前往<a href="https://www.microsoft.com/zh-cn/edge/download%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88%E7%9A%84Edge%E6%B5%8F%E8%A7%88%E5%99%A8" rel="nofollow">https://www.microsoft.com/zh-cn/edge/download下载最新版的Edge浏览器</a></li>
+</ul>
+<p>因为Yunzai-Miao需要Chromium/Edge的环境，也就是说下谷歌浏览器也可以，看你自己。</p>
+<ul>
+<li>前往<a href="https://github.com/redis-windows/redis-windows/releases%E4%B8%8B%E8%BD%BDRedis-8.4.0-Windows-x64-msys2-with-Service.zip">https://github.com/redis-windows/redis-windows/releases下载Redis-8.4.0-Windows-x64-msys2-with-Service.zip</a></li>
+</ul>
+<p>这是Redis，同样是Yunzai-Miao需要的环境。</p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
