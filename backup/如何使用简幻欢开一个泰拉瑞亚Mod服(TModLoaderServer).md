@@ -11,12 +11,15 @@
 ### 打包本地模组为整合包
 6. 在tml中将自己要玩的即上传到服务器的模组全部启用，确认配置好后，在模组管理页面点击将已启用模组保存为模组整合包，然后点击导出整合包，然后打开创建好的模组整合包的文件夹，切换到Mods和Modconfigs两个文件夹的目录，将这两个文件夹打包压缩，建议压缩为7z。
 ### 修改启动项指定模组及配置文件存放目录
-7. 打包之后再上传到启动脚本所在的目录并解压，会在当前目录产生两个目录即Mods和Modconfigs文件夹，打开start.sh文件编辑，删除所有以`launch_args="-server"`开头的代码，并最终新增一行代码launch_args="-server -config server.properties -modpath /home/container/Mods -tmlsavedirectory /home/container"，此代码将模组路径指定至刚刚我们解压的两个目录，修改后的sh脚本的内容为#!/usr/bin/env bash
+7. 打包之后再上传到启动脚本所在的目录并解压，会在当前目录产生两个目录即Mods和Modconfigs文件夹，打开start.sh文件编辑，删除所有以`launch_args="-server"`开头的代码，并最终新增一行代码`launch_args="-server -config server.properties -modpath /home/container/Mods -tmlsavedirectory /home/container"`，此代码将模组路径指定至刚刚我们解压的两个目录，修改后的sh脚本的内容为
+```
+#!/usr/bin/env bash
 cd "$(dirname "$0")" || exit
 mise use -g dotnet@8.0
 launch_args="-server"
 launch_args="-server -config server.properties -modpath /home/container/Mods -tmlsavedirectory /home/container"
 dotnet tModLoader.dll $launch_args
+```
 请自行对照复制粘贴修改。
 ### 大功告成
 8. 返回到简幻欢的终端页面，启动服务器即可运行你的定制模组服了。
