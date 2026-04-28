@@ -93,7 +93,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </ol>
 <h3>修改启动脚本内容</h3>
 <ol start="5">
-<li>找到简幻欢文件列表中的start-tModLoaderServer.sh文件，点击这个文件打开编辑，将其中的内容全部复制，粘贴并覆盖到start.sh文件中。</li>
+<li>找到简幻欢文件列表中的start.sh文件，点击这个文件打开编辑，在 cd "$(dirname "$0")" || exit 之后增加一行代码 <code class="notranslate">mise use -g dotnet@8.0</code>，然后保存文件。</li>
 </ol></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
