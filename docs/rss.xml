@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Fri, 01 May 2026 05:35:46 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>一些游戏的配置文件存放目录</title><link>https://ez661.github.io/post/yi-xie-you-xi-de-pei-zhi-wen-jian-cun-fang-mu-lu.html</link><description>三角洲行动
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Mon, 04 May 2026 11:55:14 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>使用简幻欢开一个MC-NeoForge服务器MOD服</title><link>https://ez661.github.io/post/shi-yong-jian-huan-huan-kai-yi-ge-MC-NeoForge-fu-wu-qi-MOD-fu.html</link><description>访问https://neoforged.net/进入neoforged官网
+在NeoForge installer files栏选择游戏版本和NeoForge版本
+游戏版本选择MOD支持的版本
+NeoForge选择最新的版本即可（或者MOD支持的版本）
+然后点击Download Installer（需要Java环境）
+在国内环境下（也许是Watt Toolkit加速器加速GitHub的环境下）
+该安装器可以正常使用安装
+目录选择一个空的临时目录
+安装时选择伺服器（即服务器）
+此时你获得了一个MC-NeoForge你需要的版本的服务器文件
+把他压缩起来上传到简幻欢（记得提前清空简幻欢的所有文件）
+。</description><guid isPermaLink="true">https://ez661.github.io/post/shi-yong-jian-huan-huan-kai-yi-ge-MC-NeoForge-fu-wu-qi-MOD-fu.html</guid><pubDate>Mon, 04 May 2026 11:54:38 +0000</pubDate></item><item><title>一些游戏的配置文件存放目录</title><link>https://ez661.github.io/post/yi-xie-you-xi-de-pei-zhi-wen-jian-cun-fang-mu-lu.html</link><description>三角洲行动
 \DeltaForce\Saved\Config。</description><guid isPermaLink="true">https://ez661.github.io/post/yi-xie-you-xi-de-pei-zhi-wen-jian-cun-fang-mu-lu.html</guid><pubDate>Fri, 01 May 2026 05:35:18 +0000</pubDate></item><item><title>如何彻底关闭Windows Defender</title><link>https://ez661.github.io/post/ru-he-che-di-guan-bi-Windows%20Defender.html</link><description>### Windows Defender的进程
 在任务管理器中 Windows Defender 的 常驻进程 名为: Antimalware Service Executable
 ### 在正常系统模式中关闭
