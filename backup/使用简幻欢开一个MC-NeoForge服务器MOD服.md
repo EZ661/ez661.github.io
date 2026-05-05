@@ -1,4 +1,4 @@
-访问https://neoforged.net/进入neoforged官网
+访问 https://neoforged.net/ 进入neoforged官网
 在NeoForge installer files栏选择游戏版本和NeoForge版本
 游戏版本选择MOD支持的版本
 NeoForge选择最新的版本即可（或者MOD支持的版本）
