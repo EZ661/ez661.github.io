@@ -175,4 +175,4 @@ https://blog.csdn.net/Natsuago/article/details/143231558
 具体方法如下
 [R插件Q&A文档](https://zhiyu1998.github.io/rconsole-plugin/posts/QA%E5%AE%98%E6%96%B9%E8%A7%A3%E7%AD%94.html)
 
-完结！
+完结
