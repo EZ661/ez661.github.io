@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Mon, 11 May 2026 02:56:07 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>常用工具地址合集</title><link>https://ez661.github.io/post/8.html</link><description>系统激活工具
-https://github.com/zbezj/HEU_KMS_Activator/releases。</description><guid isPermaLink="true">https://ez661.github.io/post/8.html</guid><pubDate>Mon, 11 May 2026 02:54:44 +0000</pubDate></item><item><title>这是一个测试</title><link>https://ez661.github.io/post/7.html</link><description>这是一个测试。</description><guid isPermaLink="true">https://ez661.github.io/post/7.html</guid><pubDate>Sun, 10 May 2026 10:08:09 +0000</pubDate></item><item><title>如何搭建一个NapCatQQ+Yunzai-Miao的机器人？</title><link>https://ez661.github.io/post/6.html</link><description>### 前言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Mon, 11 May 2026 02:57:14 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>常用工具地址合集</title><link>https://ez661.github.io/post/8.html</link><description>MSDN - 下载Windows系统等资源
+https://next.itellyou.cn/Original/
+
+微PE工具箱 - 制作PE盘工具
+https://www.wepe.com.cn/
+山东大学免费为微PE提供了镜像站
+
+HEU_KMS - Windows等激活工具
+https://github.com/zbezj/HEU_KMS_Activator/releases
+
+WinRAR - 解压缩软件
+https://www.winrar.com.cn/
+
+Bandizip - 解压缩软件
+https://www.bandisoft.com/bandizip/
+
+QQ - 通讯工具
+https://im.qq.com/index/
+
+EDGE浏览器 - 顾名思义 浏览器
+https://www.microsoft.com/zh-cn/edge/download
+
+qBittorrent - BT下载工具
+https://www.qbittorrent.org/download
+
+DISM++ - 一个系统优化管理工具
+https://github.com/Chuyu-Team/Dism-Multi-language/releases
+其实已经不更新了 直接留存 10.1.1002.1B 版本本地即可
+
+PotPlayer - 视频播放工具
+http://potplayer.daum.net/
+
+DeltaChat - 邮箱通讯工具
+https://delta.chat/zh_CN/download
+
+Watt Toolkit - Steam加速器等
+https://steampp.net/
+一个开源steam管理工具，以前叫steam++
+
+TShock - 泰拉瑞亚开服工具
+https://github.com/Pryaxis/TShock/releases
+
+Notepad++ - 文本编辑器
+https://notepad-plus-plus.org/downloads/
+
+HMCL - MC（我的世界）启动器
+https://hmcl.huangyuhui.net/
+
+MC元素周期表优化包 - 优化MC
+https://www.mcmod.cn/modpack/467.html
+
+远程桌面操控软件 - ToDesk
+https://www.todesk.com/。</description><guid isPermaLink="true">https://ez661.github.io/post/8.html</guid><pubDate>Mon, 11 May 2026 02:54:44 +0000</pubDate></item><item><title>这是一个测试</title><link>https://ez661.github.io/post/7.html</link><description>这是一个测试。</description><guid isPermaLink="true">https://ez661.github.io/post/7.html</guid><pubDate>Sun, 10 May 2026 10:08:09 +0000</pubDate></item><item><title>如何搭建一个NapCatQQ+Yunzai-Miao的机器人？</title><link>https://ez661.github.io/post/6.html</link><description>### 前言
 首先你要租一个服务器， 你总不可能在自己的电脑上运行一个机器人24小时吧？所以租一个服务器是我们最好的选择。</description><guid isPermaLink="true">https://ez661.github.io/post/6.html</guid><pubDate>Sun, 10 May 2026 04:45:01 +0000</pubDate></item><item><title>使用简幻欢开一个MC-NeoForge服务器MOD服</title><link>https://ez661.github.io/post/5.html</link><description>访问 https://neoforged.net/ 进入neoforged官网
 在NeoForge installer files栏选择游戏版本和NeoForge版本
 游戏版本选择MOD支持的版本
