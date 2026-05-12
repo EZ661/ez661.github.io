@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Tue, 12 May 2026 00:49:57 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>电脑-WIN-使用教程</title><link>https://ez661.github.io/post/9.html</link><description>&lt;img width='348' height='235' alt='Image' src='https://github.com/user-attachments/assets/2cf0a26a-7623-42ac-bbc2-6be85f0f0400' /&gt;
-
-&lt;img width='1491' height='979' alt='Image' src='https://github.com/user-attachments/assets/3324379c-99f8-4ec1-828c-097bfbf18008' /&gt;
-
-&lt;img width='410' height='238' alt='Image' src='https://github.com/user-attachments/assets/3acb416a-0148-4e0a-906c-55fd5c31816c' /&gt;
-
-如果没有解压缩软件或打不开压缩包，可以在[这个地址](https://www.winrar.com.cn/download.htm)下载WinRAR解压缩软件。</description><guid isPermaLink="true">https://ez661.github.io/post/9.html</guid><pubDate>Tue, 12 May 2026 00:49:31 +0000</pubDate></item><item><title>常用工具地址合集</title><link>https://ez661.github.io/post/8.html</link><description>MSDN - 下载Windows系统等资源
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小马韦恩Wayne</title><link>https://ez661.github.io</link><description>分享各种有趣且实用的东西</description><copyright>小马韦恩Wayne</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/249889110</url><title>avatar</title><link>https://ez661.github.io</link></image><lastBuildDate>Tue, 12 May 2026 00:56:09 +0000</lastBuildDate><managingEditor>小马韦恩Wayne</managingEditor><ttl>60</ttl><webMaster>小马韦恩Wayne</webMaster><item><title>电脑-WIN-使用教程</title><link>https://ez661.github.io/post/9.html</link><description>&lt;img width='348' height='235' alt='Image' src='https://github.com/user-attachments/assets/2cf0a26a-7623-42ac-bbc2-6be85f0f0400' /&gt;
+复制需要使用的平台的下载地址，本文演示的为电脑-WIN平台。</description><guid isPermaLink="true">https://ez661.github.io/post/9.html</guid><pubDate>Tue, 12 May 2026 00:49:31 +0000</pubDate></item><item><title>常用工具地址合集</title><link>https://ez661.github.io/post/8.html</link><description>MSDN - 下载Windows系统等资源
 https://next.itellyou.cn/Original/
 
 微PE工具箱 - 制作PE盘工具
