@@ -35,6 +35,7 @@
 
 ### 3. 在软件的右上角找到`测速按钮`，图标为一个`仪表盘`，单击即可开始测速。
 <img width="1068" height="445" alt="Image" src="https://github.com/user-attachments/assets/b0c0c309-84db-48d3-b0e5-0d8802a1b40f" />
+
 ### 4. 测速完成后，单击**速度或延迟表头**即可排序测速结果，选择延迟较低，速度较快的节点。
 <img width="1138" height="460" alt="Image" src="https://github.com/user-attachments/assets/8244fb0f-9849-4c02-863a-4465a17b5855" />
 
